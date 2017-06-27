@@ -98,6 +98,7 @@ node,way    source:*                text    delete
 node,way    attribution             text    delete
 node,way    comment                 text    delete
 node,way    fixme                   text    delete
+node,way    amenity:restaurant      text    delete
 
 # Tags generally dropped by editors, not otherwise covered
 node,way    created_by              text    delete
